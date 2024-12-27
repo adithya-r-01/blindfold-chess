@@ -4,9 +4,9 @@
 
 > A `Python` project designed to explore the randomness of chess and all of its funky implications. This project is part of my _writings_ which you can take a look at here!
 
-- [Prerequisites](https://github.com/adithya-r-01/blindfold-chess/edit/main/README.md#prerequisites)
-- [Running The Simulation](https://github.com/adithya-r-01/blindfold-chess/edit/main/README.md#running-the-simulation)
-- [Analyzing Results](https://github.com/adithya-r-01/blindfold-chess/edit/main/README.md#analyzing-the-results)
+- [Prerequisites](https://github.com/adithya-r-01/blindfold-chess/main/README.md#prerequisites)
+- [Running The Simulation](https://github.com/adithya-r-01/blindfold-chess/main/README.md#running-the-simulation)
+- [Analyzing Results](https://github.com/adithya-r-01/blindfold-chess/main/README.md#analyzing-the-results)
 
 ## Prerequisites
 
