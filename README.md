@@ -55,3 +55,5 @@ And that's basically it! Info and debug logs will appear based on the `--verbosi
 > This part is where you let _your_ creativity shine through. Use the existing code as a template for visualizations and analysis.
 
 The `analysis.py` file contains various analysis and visualization components. Simply use `python3 analysis.py` to run the analysis. Visualizations will also appear in the `output` directory defined in the `config.yaml`.
+
+To define which folder to analyze use the required `--read` parameter with the correct folder name.
