@@ -1,0 +1,1 @@
+Output folders are automatically generated in this directory level - if you specify a custom directory it will need to be created
